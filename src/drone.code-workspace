@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Drone-450 v0.0",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
